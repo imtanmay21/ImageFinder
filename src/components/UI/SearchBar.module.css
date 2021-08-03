@@ -1,0 +1,36 @@
+.bar {
+    text-align: center;
+}
+
+.bar > input,
+.search-btn {
+    font-size: 1.3rem;
+}
+
+.bar > input {
+    margin-right: 1rem;
+    padding: 1rem;
+    border: none;
+    border-radius: 5px;
+    background: #ddd;
+    outline: none;
+}
+
+.search-btn {
+    background: #333;
+    color: #fff;
+    border-radius: 50%;
+    width: 3.5rem;
+    transform: scale(1);
+}
+
+.search-btn:hover {
+    transform: scale(1.05);
+    opacity: 1;
+}
+
+@media screen and (max-width: 568px) {
+    .bar > input {
+        font-size: 1.1rem;
+    }
+}

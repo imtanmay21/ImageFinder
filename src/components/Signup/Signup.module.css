@@ -1,0 +1,56 @@
+.container {
+    height: 100vh;
+    overflow: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signup-card {
+    height: 40rem;
+    width: 30rem;
+}
+
+.signup {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.signup h1 {
+    text-align: center;
+}
+
+.error {
+    margin: 1rem 0;
+    text-align: center;
+    color: #F8485E;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.signup > div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+}
+
+.signup > div > input,
+.signup > div > label {
+    font-size: 1.4rem;
+}
+
+.signup > div > input {
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    border: 1px solid #333;
+    border-radius: 5px;
+    outline: none;
+}
+
+.signup > p {
+    text-align: center;
+    margin-top: 1.5rem;
+}
+

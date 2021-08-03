@@ -1,0 +1,24 @@
+.gallery {
+    margin: 1.5rem 0;
+    column-count: 3;
+}
+
+.gallery > img {
+    height: auto;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.error {
+    text-align: center;
+}
+
+.error h1 {
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+    .gallery {
+        column-count: 1;
+    }
+}
