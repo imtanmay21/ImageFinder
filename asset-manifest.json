@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ImageFinder/static/css/main.cddfde55.chunk.css",
-    "main.js": "/ImageFinder/static/js/main.f883719b.chunk.js",
-    "main.js.map": "/ImageFinder/static/js/main.f883719b.chunk.js.map",
+    "main.js": "/ImageFinder/static/js/main.b2cd54a6.chunk.js",
+    "main.js.map": "/ImageFinder/static/js/main.b2cd54a6.chunk.js.map",
     "runtime-main.js": "/ImageFinder/static/js/runtime-main.19b2909f.js",
     "runtime-main.js.map": "/ImageFinder/static/js/runtime-main.19b2909f.js.map",
-    "static/js/2.6f208463.chunk.js": "/ImageFinder/static/js/2.6f208463.chunk.js",
-    "static/js/2.6f208463.chunk.js.map": "/ImageFinder/static/js/2.6f208463.chunk.js.map",
+    "static/js/2.a906f916.chunk.js": "/ImageFinder/static/js/2.a906f916.chunk.js",
+    "static/js/2.a906f916.chunk.js.map": "/ImageFinder/static/js/2.a906f916.chunk.js.map",
     "index.html": "/ImageFinder/index.html",
     "static/css/main.cddfde55.chunk.css.map": "/ImageFinder/static/css/main.cddfde55.chunk.css.map",
-    "static/js/2.6f208463.chunk.js.LICENSE.txt": "/ImageFinder/static/js/2.6f208463.chunk.js.LICENSE.txt"
+    "static/js/2.a906f916.chunk.js.LICENSE.txt": "/ImageFinder/static/js/2.a906f916.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19b2909f.js",
-    "static/js/2.6f208463.chunk.js",
+    "static/js/2.a906f916.chunk.js",
     "static/css/main.cddfde55.chunk.css",
-    "static/js/main.f883719b.chunk.js"
+    "static/js/main.b2cd54a6.chunk.js"
   ]
 }
